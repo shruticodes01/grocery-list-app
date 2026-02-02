@@ -16,8 +16,8 @@ Grocery list app built for Redi School Prework
 
 - Semantic HTML5 markup
 - CSS
-- Flexbox
-- CSS Grid
+  - Flexbox
+  - CSS Grid
 - JavaScript
 
 **Note: The styles were directly taken from the initial setup folder**
