@@ -75,7 +75,7 @@ else if (inputValue && isEditing) {
   }
 ```
 
-**Note: I tried to write html5 and some of the javascript myself, and followed along for the part that was related to deleteBtn, localstorage, displaying list on reload, and adjusted my previously written code as required**
+**Note: I wrote the basic semantic html and some javascript code myself, and followed along for the part that was related to deleteBtn, localstorage, displaying list on reload, and adjusted my previously written code as required**
 
 ### Continued development
 
